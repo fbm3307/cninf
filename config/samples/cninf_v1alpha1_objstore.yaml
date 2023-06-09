@@ -1,0 +1,8 @@
+apiVersion: cninf.lil.fmehta.com/v1alpha1
+kind: ObjStore
+metadata:
+  name: fbmlil-01
+spec:
+  name: fbmlillive-extk8s-01
+  locked: false
+
